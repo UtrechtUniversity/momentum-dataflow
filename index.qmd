@@ -1,0 +1,9 @@
+---
+title: "Momentum Data protocol"
+---
+
+This is a draft website describing the workflow of Momentum data. 
+It is written mainly for data generators of Momentum.
+
+The website provides practical steps to help Momentum researchers align with the FAIR data management practices established in the project. Links are provided to chosen resources (for data transfer and publishing).
+
