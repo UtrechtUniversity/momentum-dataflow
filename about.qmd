@@ -1,0 +1,9 @@
+---
+title: "About Momentum"
+---
+
+This website provides guidance for data management within the Momentum project.
+
+Visit the [webpage](https://momentummicroplastics.nl/) to find out more.
+
+![Screenshot of Momentum's website](/website_scrshot.png)
