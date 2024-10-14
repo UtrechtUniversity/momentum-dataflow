@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "naming.html",
+    "href": "naming.html",
+    "title": "Naming convention",
+    "section": "",
+    "text": "Naming convention for Momentum data\nName files as follows: [Partner]_[Template]_[Initials/ID]_[Nr].[Extension]\n\nNaming of data files\n\n\n\n\n\n\n\nSection\nExplanation\n\n\n\n\nPartner\n\nUU = Utrecht University\nUMCU = UMC Utrecht\nRUG = University of Groningen\nOU = Open University\nUM = Maastricht University\nUTWENTE = Technical University of Twente\nUV = Vrije Universiteit Amsterdam\nWUR = Wageningen University & Research\nDELT = Stichting Deltares\nKWR = KWR\nRIVM = National Institute for Public Health and the Environment\nTNO = TNO\nUHASSELT = Hasselt University\n\n\n\nTemplates\n\nelisa = ELISA\nqpcr = qPCR\nldh = LDH leakage\nalamb = Alamarblue\nmea = Microelectrode array\nneutr-surv = Neutrophil survival\npy-gc-ms = Pyrolysis GC/MS\ndoseresp = generic ‘doseresponse_table’ template\nsem-md = SEM metadata\nhts-md = HTS metadata\n…\n\n‘md’ stands for metadata\nfollow same naming for non-tabular data that is described by metadata just name ‘template’ without ‘-md’\nfurther templates should be named with lowercase letters and hyphen aim to be concise but be clear on type of template\n\n\nInitials/ID\nInitials/numeric ID code of data generator\n\n\nNr\nDeliberate numbering to differentiate between templates of given data generator\n\n\nExtension\nMainly foreseen to be .xls (except for non-tabular data)\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nThis way of naming makes it easy to trace back potential incorrectness of data, in case amendments to the eNanomapper database are necessary."
+  },
+  {
+    "objectID": "guide.html",
+    "href": "guide.html",
+    "title": "Step-by-step guide",
+    "section": "",
+    "text": "YODA is used as a secure data solution, where data generators can upload the filled templates.\n\n\n\n\n\n\nTip\n\n\n\nMore information and a detailed ‘manual’ about YODA can be found on their website.\n\n\nData generators receive an email to register, after which they can access the dedicated website for data upload.\nThe main folder is called ‘research-enanomapper’ with a ‘temp_filesharing’ and a ‘non-excel-data’ folder within. There is also a README.txt file giving extra information on file naming. This information is also available under the naming convention tab.\n\n\n\n\n\n\nNote\n\n\n\n\n\nOnly Momentum data generators, the responsible person from eNanomapper and data managers have access to this environment.\n\n\n\n\n\n\nThe temp_filesharing is a dump folder that provides a temporary collection place for Excel-based Momentum data that will subsequently be transferred into the online database of eNanomapper. It has sub-folders corresponding to separate templates/experiments. Templates should be uploaded into the fitting folder. If there is no fitting folder, one can simply create one (using lowercase letters and hyphens, if needed).\nFurthermore, the provision of descriptive metadata in Excel format about other types of data (e.g. microscopy, DNA sequencing etc.) is required. The metadata should contain a link to where these other data types are stored/will be made available (e.g. in Yoda1 or another well-established repository).\nThe non_excel_data folder is for non-tabular data. Its purpose is to provide a storing place for data that does not fit into eNanomapper as is (only the metadata that describes it). Data generators can create a sub-folder for their intended publication to store non-tabular data files there. In addition, there is a sub-folder for the rest of data that is not planned to be in a paper. It is possible to publish data straight from Yoda later, if desired."
+  },
+  {
+    "objectID": "guide.html#footnotes",
+    "href": "guide.html#footnotes",
+    "title": "Step-by-step guide",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nSee below how Yoda can be used for non-tabular data↩︎\nhttps://enanomapper.adma.ai/about/↩︎"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Momentum",
+    "section": "",
+    "text": "This website provides guidance for data management within the Momentum project.\nVisit the webpage to find out more.\n\n\n\nScreenshot of Momentum’s website"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Momentum Data protocol",
+    "section": "",
+    "text": "This is a draft website describing the workflow of Momentum data. It is written mainly for data generators of Momentum.\nThe website provides practical steps to help Momentum researchers align with the FAIR data management practices established in the project. Links are provided to chosen resources (for data transfer and publishing)."
+  }
+]
