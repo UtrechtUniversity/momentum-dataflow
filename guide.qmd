@@ -1,5 +1,6 @@
 ---
 title: "Step-by-step guide"
+lightbox: true
 ---
 
 ### Yoda
