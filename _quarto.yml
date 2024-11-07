@@ -14,13 +14,13 @@ website:
         text: Home
       - text: "More"
         menu:
-          - text: "About"
+          - text: "About Momentum"
             href: about.qmd
-          - text: "Guide"
+          - text: "Data flow guide"
             href: guide.qmd
-          - text: "Designer"
+          - text: "Template Designer"
             href: designer.qmd
-          - text: "Naming"
+          - text: "Naming convention"
             href: naming.qmd
     search: true
   page-navigation: true

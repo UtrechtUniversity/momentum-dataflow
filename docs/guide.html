@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Step-by-step guide – Momentum data protocol</title>
+<title>Step-by-step guide – Momentum Data Protocol</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -4757,22 +4757,29 @@ font-family: inherit;
     <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About Momentum</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-more" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">More</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-more">    
+        <li>
+    <a class="dropdown-item" href="./about.html">
+ <span class="dropdown-text">About</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="./guide.html" aria-current="page"> 
-<span class="menu-text">Step-by-step guide</span></a>
+        <li>
+    <a class="dropdown-item" href="./guide.html">
+ <span class="dropdown-text">Guide</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./designer.html"> 
-<span class="menu-text">Template Designer</span></a>
+        <li>
+    <a class="dropdown-item" href="./designer.html">
+ <span class="dropdown-text">Designer</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./naming.html"> 
-<span class="menu-text">Naming</span></a>
+        <li>
+    <a class="dropdown-item" href="./naming.html">
+ <span class="dropdown-text">Naming</span></a>
   </li>  
+    </ul>
+  </li>
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -4799,7 +4806,7 @@ font-family: inherit;
   <li><a href="#how-to-use-the-template-designer" id="toc-how-to-use-the-template-designer" class="nav-link" data-scroll-target="#how-to-use-the-template-designer">How to use the Template Designer</a></li>
   </ul></li>
   </ul>
-</nav>
+<div class="toc-actions"><ul><li><a href="https://utrechtuniversity.github.io/momentum-dataflow/blob/main/guide.qmd" class="toc-action"><i class="bi bi-git"></i>View source</a></li><li><a href="https://utrechtuniversity.github.io/momentum-dataflow/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
@@ -4877,7 +4884,7 @@ Note
 <section id="how-to-use-enanomapper-for-momemtum-data" class="level4">
 <h4 class="anchored" data-anchor-id="how-to-use-enanomapper-for-momemtum-data">How to use eNanomapper for Momemtum data</h4>
 <ul>
-<li>Navigate to the <a href="https://enanomapper.adma.ai/projects/momentum/datatemplates/"><strong>template wizard</strong></a> of Momentum <a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a>.</li>
+<li>Navigate to the <a href="https://enanomapper.adma.ai/projects/momentum/datatemplates/"><strong>template wizard</strong></a> of Momentum.</li>
 <li>Find template corresponding to experiment and adjust variables in the wizard. After downloading, fill in Excel sheet. In case the layout does not fit the experimental output (/you wish to adjust template layout to fit your data), please create a template in the <a href="https://enanomapper.adma.ai/templates"><strong>template designer</strong></a> instead. Same applies to the metadata templates. Templates obtained from the wizard and changed after download are not suitable for the data transfer into eNanomapper.</li>
 <li>After downloading and filling in suitable templates according to your respective research, upload Excel files to the corresponding sub-folders (name as the template/experiment name). Naming convention is described under the <a href="./naming.html"><strong>corresponding tab</strong></a>.</li>
 <li>If there is no sub-folder for a given template/experiment yet, please create it under the temp_filesharing folder.</li>
@@ -4924,12 +4931,11 @@ Next step
 </section>
 
 
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
 <li id="fn1"><p>See below how Yoda can be used for non-tabular data<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 <li id="fn2"><p>https://enanomapper.adma.ai/about/<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn3"><p>Consult the <a href="https://enanomapper.adma.ai/assets/img/guide/">user guide</a> for more guidance<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -5497,7 +5503,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"selector":".lightbox","closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom"});
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://utrechtuniversity.github.io/momentum-dataflow/blob/main/guide.qmd" class="toc-action"><i class="bi bi-git"></i>View source</a></li><li><a href="https://utrechtuniversity.github.io/momentum-dataflow/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer><script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","selector":".lightbox","openEffect":"zoom","descPosition":"bottom","loop":false});
 (function() {
   let previousOnload = window.onload;
   window.onload = () => {
