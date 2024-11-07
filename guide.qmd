@@ -27,7 +27,7 @@ Only Momentum data generators, the responsible person from eNanomapper and data 
 
 [^1]: See below how Yoda can be used for non-tabular data
 
-![](dataflow_website_v2.png "General flow of Momentum data")
+![]("General flow of Momentum data")
 
 ### eNanomapper
 
