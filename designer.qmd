@@ -11,7 +11,7 @@ lightbox: true
 
 When creating a new draft, a sequence of sheets pop up that need to be populated with information about your data.
 
-![](/images/createnewdraft.png 'test')
+![](/images/dataflow_website_v2.png "General flow of Momentum data")
 
 > Please provide a name for your template, your name as author and your affiliation or project for the acknowledgement.
 
