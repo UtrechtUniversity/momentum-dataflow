@@ -3,4 +3,32 @@ title: "Template Designer"
 lightbox: true
 ---
 
-How to design a template that fits your data.
+
+
+#### How to design a template that fits your data
+
+-   Navigate to the [**template designer**](https://enanomapper.adma.ai/templates) of Momentum.
+-   Click on Design ...
+
+
+![](/images/1welcome.png)
+![](/images/2method.png)
+![](/images/3results.png)
+![](/images/4methodparam.png)
+![](/images/4sample.png)
+![](/images/5sampleprep.png)
+![](/images/6proven.png)
+![](/images/7layout.png)
+![](/images/finalize.png)
+
+
+
+
+::: {.callout-tips icon="false" appearence="simple"}
+## Tip
+Here can write some additional tips
+:::
+
+-   After downloading and filling in suitable templates according to your respective research, upload Excel files to the corresponding sub-folders (name as the template/experiment name). Naming convention is described under the [**corresponding tab**](/naming.qmd).
+-   If there is no sub-folder for a given template/experiment yet, please create it under the temp_filesharing folder.
+-   There are no sub-folders in the non-tabular data folder yet so create one for your publication. There is an extra folder for data that will not be part of your publication. Please follow the same naming convention for traceability.
