@@ -6,7 +6,7 @@ website:
   title: "Momentum Data Protocol"
   navbar:
     background: primary
-    logo: logo.png
+    logo: /images/logo.png
     logo-alt: 'Momentum logo'
     title: false
     left:
