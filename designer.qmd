@@ -1,9 +1,8 @@
 ---
 title: "Template Designer"
 lightbox: true
+    effect: zoom
 ---
-
-
 
 #### How to design a template that fits your data
 
