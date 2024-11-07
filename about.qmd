@@ -2,8 +2,8 @@
 title: "About Momentum"
 ---
 
-This website provides guidance for data management within the Momentum project.
+This website provides guidance for data management within Momentum.
 
-Visit the [webpage](https://momentummicroplastics.nl/) to find out more.
+Visit the [webpage](https://momentummicroplastics.nl/) to find out more about the research project.
 
 ![Screenshot of Momentum's website](/website_scrshot.png)
