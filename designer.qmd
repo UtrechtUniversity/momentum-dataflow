@@ -2,3 +2,5 @@
 title: "eNanomapper Template Designer"
 lightbox: true
 ---
+
+How to design a template that fits your data.
