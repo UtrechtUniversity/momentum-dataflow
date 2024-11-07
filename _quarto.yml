@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Momentum data protocol"
+  title: "Momentum Data Protocol"
   navbar:
     background: primary
     logo: logo.png
@@ -14,12 +14,19 @@ website:
         text: Home
       - text: "More"
         menu:
-        - about.qmd
-        - guide.qmd
-        - designer.qmd
-        - naming.qmd
+          - text: "About"
+            href: about.qmd
+          - text: "Guide"
+            href: guide.qmd
+          - text: "Designer"
+            href: designer.qmd
+          - text: "Naming"
+            href: naming.qmd
     search: true
   page-navigation: true
+  repo-url: https://utrechtuniversity.github.io/momentum-dataflow/
+  repo-actions: [source, issue]
+  back-to-top-navigation: true
 
 format:
   html:
