@@ -12,15 +12,16 @@ lightbox: true
 -   Can also browse **Finalized** and **Draft Blueprints** to see templates designed by others
 
 When creating a new draft, a sequence of sheets pop up that need to be populated with information about your data.
-![](/images/createnewdraft.png)
+![](/images/createnewdraft.png){.lightbox}
 > Please provide a name for your template, your name as author and your affiliation or project for the acknowledgement.
 
-![](/images/1welcome.png)
+![](/images/1welcome.png){.lightbox}
 Choose your role. Drafts can only be finalized if "data manager" is chosen, however, templates are still functioning when they are not finalized. 
 Please remember that you can always reach out to a data steward at your institute or the responsible person at UU.
 
-![](/images/2method.png)
+![](/images/2method.png){.lightbox}
 You can link to your SOP, please provide a DOI in case it is published already.
+
 ![](/images/3results.png)
 ![](/images/4methodparam.png)
 ![](/images/4sample.png)
@@ -32,7 +33,7 @@ You can link to your SOP, please provide a DOI in case it is published already.
 
 
 
-::: {.callout-tips icon="false" appearence="simple"}
+::: {.callout-tip icon="false" appearence="simple"}
 ## Tip
 Here can write some additional tips
 :::
