@@ -12,10 +12,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - guide.qmd
-      - designer.qmd
-      - naming.qmd
+      - text: "More"
+        menu:
+        - about.qmd
+        - guide.qmd
+        - designer.qmd
+        - naming.qmd
     search: true
   page-navigation: true
 
