@@ -24,7 +24,7 @@ website:
             href: naming.qmd
     search: true
   page-navigation: true
-  repo-url: https://utrechtuniversity.github.io/momentum-dataflow/
+  repo-url: https://github.com/UtrechtUniversity/momentum-dataflow/
   repo-actions: [source, issue]
   back-to-top-navigation: true
 
