@@ -12,14 +12,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: "About Momentum"
-        href: about.qmd
-      - text: "Data flow guide"
-        href: guide.qmd
-      - text: "Template Designer"
-        href: designer.qmd
-      - text: "Naming convention"
-        href: naming.qmd
+      - about.qmd
+      - guide.qmd
+      - designer.qmd
+      - naming.qmd
     search: true
   page-navigation: true
   back-to-top-navigation: true
