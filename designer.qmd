@@ -1,6 +1,7 @@
 ---
 title: "Template Designer"
 lightbox: true
+draft: true
 ---
 
 #### How to design a template that fits your data
