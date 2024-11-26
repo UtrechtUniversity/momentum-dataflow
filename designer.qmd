@@ -3,7 +3,8 @@ title: "Template Designer"
 lightbox: true
 ---
 
-## *This tab is under construction*
+##                                      - *This tab is under construction* - 
+
 
 #### How to design a template that fits your data
 
@@ -44,6 +45,6 @@ You can link to your SOP, please provide a DOI in case it is published already.
 
 ::: {.callout-tip icon="false" appearence="simple"}
 ## Tip
-Here can write some additional tips
+Additional tips
 :::
 
