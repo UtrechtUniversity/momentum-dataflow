@@ -1,9 +1,9 @@
 ---
 title: "Template Designer"
 lightbox: true
-draft: true
-draft-mode: visible
 ---
+
+## *This tab is under construction*
 
 #### How to design a template that fits your data
 
