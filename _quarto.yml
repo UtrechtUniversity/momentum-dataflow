@@ -17,9 +17,6 @@ website:
       - designer.qmd
       - naming.qmd
       - glossary.qmd
-    drafts:
-      - designer.qmd
-    draft-mode: visible
     search: true
   page-navigation: true
   back-to-top-navigation: true

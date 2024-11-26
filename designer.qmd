@@ -2,6 +2,7 @@
 title: "Template Designer"
 lightbox: true
 draft: true
+draft-mode: visible
 ---
 
 #### How to design a template that fits your data
