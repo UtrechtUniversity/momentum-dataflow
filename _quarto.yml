@@ -16,6 +16,7 @@ website:
       - guide.qmd
       - designer.qmd
       - naming.qmd
+      - glossary.qmd
     search: true
   page-navigation: true
   back-to-top-navigation: true
