@@ -11,8 +11,9 @@ lightbox: true
 More information and a detailed ‘manual’ about YODA can be found on their [website](https://www.uu.nl/en/research/yoda/guide-to-yoda).
 :::
 
-::: {.callout-tip icon="false" appearence="simple"}
-Good to know: It is also possible to publish data straight from YODA.
+::: {.callout-tip icon="false" appearence="simple" collapse="true"}
+## Good to know
+It is also possible to publish data straight from YODA.
 :::
 
 Data generators receive an email to register, after which they can access the dedicated [website](https://dgk.yoda.uu.nl/) for data upload.
@@ -28,9 +29,12 @@ Only MOMENTUM data generators, the responsible person from eNanomapper and data 
 -   The **enm_filesharing** is a dump folder that provides a collection place for Excel-based MOMENTUM data that will subsequently be transferred into the online database of eNanomapper. It has sub-folders corresponding to separate experiments. Templates should be uploaded into the fitting folder. If there is no fitting folder, one can simply create one (using lowercase letters and hyphens, if needed).
 -   Furthermore, the provision of descriptive metadata in Excel format about other types of data (e.g. microscopy, DNA sequencing etc.) is required. The metadata should contain a link to where these other data types are stored/will be made available (e.g. in YODA or another well-established repository). 
 -   Data in other formats that is described by a template can be directly placed in this filesharing folder, according to experiment type, to make referencing easier. However, the data owner can choose to make these other files available in another repository as long as clear referencing in templates to linked files is achieved. 
--   The **for_publication** folder is intended for the minimum 'data packages'. Organising MOMENTUM data properly is part of good data management and therefore a key step. Where to store and publish these 'data bundles' however is up to the data owner - having the possibility to choose another standard, widely-accepted repository gives more freedom. This folder is rather empty still. Data generators are free to create sub-folders for their *intended publications* to keep data packages there.
+-   The **for_publication** folder is intended for the minimum 'data packages'. Organising MOMENTUM data properly is part of good data management and therefore a key step. Where to store and publish these 'data bundles' however is up to the data owner - having the possibility to choose another standard, widely-accepted repository gives more freedom. 
+-   This folder is rather empty still. Data generators are free to create sub-folders for their *intended publications* to keep data packages there.
 
 ![](/images/dataflow_website_v5.png "General flow of MOMENTUM data")
+
+![](/images/datapackage.png "Simple folder organisation for MOMENTUM data")
 
 ### eNanomapper
 

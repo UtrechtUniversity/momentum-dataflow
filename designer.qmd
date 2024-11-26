@@ -45,6 +45,3 @@ You can link to your SOP, please provide a DOI in case it is published already.
 Here can write some additional tips
 :::
 
--   After downloading and filling in suitable templates according to your respective research, upload Excel files to the corresponding sub-folders (name as the template/experiment name). Naming convention is described under the [**corresponding tab**](/naming.qmd).
--   If there is no sub-folder for a given template/experiment yet, please create it under the temp_filesharing folder.
--   There are no sub-folders in the non-tabular data folder yet so create one for your publication. There is an extra folder for data that will not be part of your publication. Please follow the same naming convention for traceability.
