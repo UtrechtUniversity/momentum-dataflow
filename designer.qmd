@@ -23,23 +23,42 @@ Please provide a name for your template, your name as author and your affiliatio
 Choose your role. Drafts can only be finalized if "data manager" is chosen, however, templates are still functioning when they are not finalized. 
 Please remember that you can always reach out to a data steward at your institute or the responsible person at UU.
 
-![](/images/2method.png)
+![](/images/2method.png "Experimental method")
 
-You can link to your SOP, please provide a DOI in case it is published already.
+You can link to your SOP, please provide a DOI in case it is published already and/or describe your protocol.
+List and specify your experimental factors, for instance: dose, time of measurement, replicates, compartment measured etc. Think of variables that are known beforehand and varied intentionally. 
+Tick the applicable controls as well.
+Choose a study type and class of experiment that is most fitting. 
 
-![](/images/3results.png)
+![](/images/3results.png "Results")
 
-![](/images/4methodparam.png)
+In the Results tab you can choose what output you would like to report. Choose all applicable options. The category "Other" will not generate a sheet in your excel template however.
+Please fill in variables you want to report (in the example on the screenshot raw and processed data is made available). Clicking on the little crosses in front of variables you can specify which experimental conditions refer to your reported results.
 
-![](/images/4sample.png)
+![](/images/4methodparam.png "Method parameters")
 
-![](/images/5sampleprep.png)
+List your method parameters, for instance: detection/report limit, treatment of particle etc. You can provide hints about your variables if you click the little cross in front of the parameter names.
 
-![](/images/6proven.png)
+![](/images/4sample.png "Sample details")
 
-![](/images/7layout.png)
+The sample fields will largely be ignored so you can leave this tab as is. The material sheet of the downloaded template is uniform across templates.
 
-![](/images/finalize.png)
+![](/images/5sampleprep.png "Sample preparation")
+
+List applicable variables for your sample preparation, for instance: dispersion and dispersion agent.
+
+![](/images/6proven.png "Provenance")
+
+On this tab you can highlight which project and work package you are part of.
+
+![](/images/7layout.png "Layout")
+
+Choose dose response layout for the familiar look of the template with extensive metadata sheet. By clicking on the different layout options you can read which experiment they are more fitting for.
+
+![](/images/finalize.png "Finalize")
+
+You can finalize your template if you chose a 'data manager' role on the first tab earlier. Alternatively, ask a data person to look at your draft template and finalize it for you. This step is not mandatory for having a functional template. You can very well use draft templates as well. Click save.
+Now your newly designed template should be available either under Finalized or Draft Blueprints in the Desinger.
 
 
 
