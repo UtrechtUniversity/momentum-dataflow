@@ -14,62 +14,85 @@ lightbox: true
 
 When creating a new draft, a sequence of sheets pops up that need to be populated with information about your data.
 
+
 ![](/images/createnewdraft.png "Create a draft")
 
 Please *provide a name* for your template, your name as author and your affiliation or project for the acknowledgement.
 
+
 ![](/images/1welcome.png "Welcome")
 
 *Choose your role*. Drafts can only be finalized if "*data manager*" is chosen, however, templates are **still functioning** when they are not finalized. 
+
 Please remember that you can always reach out to a data steward at your institute or the responsible person at UU.
+
 
 ![](/images/2method_v2.png "Experimental method")
 
 You can *link to your SOP*. 
-1. Please provide a DOI in case it is published already and/or describe your protocol.
-2. List and specify your *experimental factors*, for instance: dose, time of measurement, replicates, compartment measured etc. Think of variables that are known beforehand and varied intentionally. 
-3. Tick the applicable *controls* as well.
-4. Choose a study *type* and *class* of experiment that is most fitting. 
+
+1.  Please provide a DOI in case it is published already and/or describe your protocol.
+2.  List and specify your *experimental factors*, for instance: dose, time of measurement, replicates, compartment measured etc. Think of variables that are known beforehand and varied intentionally. 
+3.  Tick the applicable *controls* as well.
+4.  Choose a study *type* and *class* of experiment that is most fitting. 
+
 
 ![](/images/3results_v2.png "Results")
 
 In the Results tab you can choose what *output you would like to report*. 
-1. Please *describe* your results.
-2. Choose all applicable options for *type of data* you want to make available. The category "Other" will not generate a sheet in your excel template though.
-3. Please fill in *variables* you want to report (in the example on the screenshot, raw and processed data is made available). 
+
+1.  Please *describe* your results.
+2.  Choose all applicable options for *type of data* you want to make available. The category "Other" will not generate a sheet in your excel template though.
+3.  Please fill in *variables* you want to report (in the example on the screenshot, raw and processed data is made available). 
+
 Think of for instance: 
-    - absorbance as raw data
-    - cell viability and fold change as processed data. 
+
+-   absorbance as raw data
+-   cell viability and fold change as processed data. 
+
 Clicking on the little cross in front of variables, you can specify which experimental conditions refer to your reported results.
+
 
 ![](/images/4methodparam_v2.png "Method parameters")
 
 List your *method parameters*. 
-You can think of for instance: cell line details, culture conditions, information on the medium, environment etc. You can provide hints about your variables if you click the little cross in front of the parameter names.
+
+You can think of for instance: cell line details, culture conditions, information on the medium, environment etc.
+
+You can provide hints about your variables if you click the little cross in front of the parameter names.
+
 
 ![](/images/4sample.png "Sample details")
 
 The sample fields will largely be ignored so you can leave this tab as is. The material sheet is uniform across templates.
 
+
 ![](/images/5sampleprep.png "Sample preparation")
 
 List applicable variables for your *sample preparation*.
+
 You can think of for instance: dispersion and dispersion agent.
+
 
 ![](/images/6proven.png "Provenance")
 
 On this tab you can highlight which *project and work package* you are part of.
 
+
 ![](/images/7layout.png "Layout")
 
 Choose a *layout* type.
-- The *dose response* layout is appropriate when there are a number of experimental factors, e.g. concentration, time, as well as a single set of parameters like instrument, medium, temperature, cell type.
-- The *physchem* layout is appropriate when there are no experimental factors (but there could be multiple set of parameters like instrument, medium, temperature).
+
+-   The *dose response* layout is appropriate when there are a number of experimental factors, e.g. concentration, time, as well as a single set of parameters like instrument, medium, temperature, cell type.
+-   The *physchem* layout is appropriate when there are no experimental factors (but there could be multiple set of parameters like instrument, medium, temperature).
+
 
 ![](/images/finalize.png "Finalize")
 
 You can finalize your template if you chose a 'data manager' role on the first tab earlier. Alternatively, ask a data person to look at your draft template and finalize it for you. 
+
 This step is **not mandatory for having a functional template**. You can very well use draft templates as well. Click save.
+
 Now your newly designed template should be available either under Finalized or Draft Blueprints in the Desinger.
 
 
