@@ -94,7 +94,7 @@ Now your newly designed template should be available either under Finalized or D
 
 
 
-::: {.callout-tip icon="false" appearence="simple"}
+::: {.callout-important icon="false" appearence="simple"}
 ## Help to improve
 There can be bugs in the Designer, for instance an issue with generating a link to the template (check backslash, forward slash in copied urls). 
 Please report such things [here](https://github.com/ideaconsult/templateforge/issues).
