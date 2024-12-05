@@ -3,9 +3,6 @@ title: "Template Designer"
 lightbox: true
 ---
 
-##                                      - *This tab is under construction* - 
-
-
 #### How to design a template that fits your data
 
 -   Navigate to the [**template designer**](https://enanomapper.adma.ai/templates) of Momentum
@@ -98,7 +95,14 @@ Now your newly designed template should be available either under Finalized or D
 
 
 ::: {.callout-tip icon="false" appearence="simple"}
-## Tip
-Additional tips
+## Help to improve
+There can be bugs in the Designer, for instance an issue with generating a link to the template (check backslash, forward slash in copied urls). 
+Please report such things [here](https://github.com/ideaconsult/templateforge/issues).
 :::
+
+::: {.callout-tip icon="false" appearence="simple" collapse="true"}
+## Good to know
+Since the Desinger is still under development, new features are coming, for instance, the "Customize Excel template" option for blueprints. 
+:::
+
 
