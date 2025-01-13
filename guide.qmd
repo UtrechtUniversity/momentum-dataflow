@@ -4,7 +4,7 @@ lightbox: true
 ---
 
 ### Goal
-The ultimate goal is to have a MOMENTUM ==‘data pool’== where **all date generated within the projects is longtime stored after the projects end**, with the coordinator (UU) having access to all data generated within the project.
+The ultimate goal is to have a MOMENTUM ***'data pool'*** where **all date generated within the projects is longtime stored after the projects end**, with the coordinator (UU) having access to all data generated within the project.
 
 We use **YODA as the data repository** in MOMENTUM and make storing data centrally on YODA compulsory within the MOMENTUM projects. The use of additional repositories remains optional for all the researchers within MOMENTUM. When local changes are made to the data, the version on YODA always needs to be updated. 
 
