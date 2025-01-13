@@ -46,11 +46,11 @@ The UU data steward is available to assist with the ENM templates and other step
 
 | Type of data generated | Data storage |
 | :---------- | :----------- |
-| •	☐ Experimental, Tabular Data – xls, csv <br><br> e.g. Lab data (raw & processed)  | ☐ data into enanomapper (ENM) template <br><br> » ☐ store templates together with original data in YODA |
-| •	☐ Experimental, Non-Tabular Data <br><br> e.g. Output of imaging techniques, PCR | ☐ store all formats in YODA |
-| •	☐ Non-Experimental Data <br><br> e.g. Documentation, SOPs, literature reviews, modelling output	| ☐ store all formats in YODA|
-|<strong>Openness</strong> <br><br> » ☐ Open <br><br> » ☐ Restricted - metadata is open |<strong>Required documents</strong> (in case of restricted access) <br><br> ☐ protocol available for arranging data access <br><br> » ☐ e.g. contact person appointed, data-sharing agreements in place – usually institutional guidelines to be consulted|
-|<strong>Timeline</strong> <br><br> ☐ Already published data >> at latest within 2 months (01-04-2025)<br><br> ☐ Upcoming papers >> maximally 2 months after the publication <br><br> ☐ MOMENTUM 1 data >> at latest 1st July 2025 <br><br> ☐ MOMENTUM 2 data >> at latest 1st July 2026|
+| • Experimental, Tabular Data – xls, csv <br><br> e.g. Lab data (raw & processed)  | data into enanomapper (ENM) template <br><br> » store templates together with original data in YODA |
+| • Experimental, Non-Tabular Data <br><br> e.g. Output of imaging techniques, PCR | store all formats in YODA |
+| • Non-Experimental Data <br><br> e.g. Documentation, SOPs, literature reviews, modelling output	| store all formats in YODA|
+|<strong>Openness</strong> <br><br> • Open <br><br> • Restricted - metadata is open |<strong>Required documents</strong> (in case of restricted access) <br><br> • protocol available for arranging data access <br><br> » e.g. contact person appointed, data-sharing agreements in place – usually institutional guidelines to be consulted|
+|<strong>Timeline</strong> <br><br> • Already published data » at latest within 2 months (01-04-2025)<br><br> • Upcoming papers » maximally 2 months after the publication <br><br> • MOMENTUM 1 data » at latest 1st July 2025 <br><br> • MOMENTUM 2 data » at latest 1st July 2026|
 
 
 
