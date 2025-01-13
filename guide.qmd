@@ -3,9 +3,72 @@ title: "Step-by-step guide"
 lightbox: true
 ---
 
+### Goal
+The ultimate goal is to have a MOMENTUM ‘data pool’ where all date generated within the projects is longtime stored after the projects end, with the coordinator (UU) having access to all data generated within the project. We use YODA as the data repository in MOMENTUM and make storing data centrally on YODA compulsory within the MOMENTUM projects. The use of additional repositories remains optional for all the researchers within MOMENTUM. When local changes are made to the data, the version on YODA always needs to be updated. 
+All data underlying publications need to be made available in YODA – both original and transformed data in the form of eNanomapper (ENM) templates; however, publishing the templates themselves is optional. 
+Data planned to be published can be uploaded to YODA separately from filled ENM templates. Filled in ENM templates can be uploaded to YODA whenever they are ready, waiting until the publication is out is not necessary. 
+Unpublished data should also be uploaded to YODA whenever it is ready. This data does not have to be in ENM templates. 
+
+### Timeline
+If data of the MOMENTUM projects is published in a paper, the underlying data should be uploaded in YODA in ENM templates and original formats wherever it is possible and otherwise in other formats preferably before but **maximally 2 months after the publication**. For papers that are **already published** we ask the authors to upload the data in ENM templates and original formats wherever it is possible and otherwise in other formats before **01-04-2025**. 
+For data generated in **MOMENTUM1.0 (or in MOMENTUM2.0) and not used in publications**, we ask all data generators to upload this to YODA before **01-07-2025**. All data generated in **MOMENTUM2.0** should be made available before **01-07-2026**. 
+If you foresee issues with this timeline, contact the MOMENTUM coordinator. 
+
+~~*Accessing YODA and ENM is possible after these deadlines up to at least 5 years*~~. 
+
+### Minimal requirements 
+The minimum data to be reported are **all data underlying publications**. Preferably though, both raw and processed data should be made available. The level of "rawness" is determined by the data owner, based on their expertise and understanding of the data. If providing raw data requires substantial effort and is deemed unfeasible within the given project timeline the data owner should contact the MOMENTUM coordinator. When no actual data can be made public, at least basic metadata describing the research methodology should be provided.
+
+As much a possible of MOMENTUM data should be available in ENM, structured as a database. Therefore, this data should be submitted in the ENM templates. Data that can’t be made available in ENM templates should be made available in YODA. For ENM, the data generators need to provide their filled templates in YODA. 
+Folder structure in YODA should be simple and generic and it can be advised later on an individual bases. Folders can be structured per work package, with separate folders per publication, containing folders of ENM templates and all other formats (see image 1. below for inspiration).
+
+![](/images/simple_datapack.png "1. Simple folder structure for publications within work packages")
+
+If restricted access is chosen under specific licenses when publishing, only metadata will be accessible.
+
+The two ‘streams’ of MOMENTUM data (ENM and YODA) can be linked on the website of MOMENTUM or the community on ZENODO.
+
+### Openness
+As long as openness is legally and ethically permissible, MOMENTUM data should be made open access after an embargo period (in this case, after publications). However, restricted access may be chosen by the data owners (researchers), i.e. deciding on giving access to owned data on a case-by-case basis. In such cases, an access protocol and data-sharing agreements need to be prepared to ensure that access to the data can be provided in a timely manner. These documents should be arranged and managed by the data owner.
+
+### Route
+Data generators will get access to YODA to place their data in YODA. With the checklist below they inform the data steward of MOMENTUM on details. The data is placed in ENM templates for export to eNanomapper. The data steward will facilitate the export to eNanomapper. The ENM templates and, if applicable, other templates/formats will be stored in the YODA vault. Data gets a DOI and, if applicable, data will be made available via open access. In case of restricted access, a data sharing protocol needs to be arranged - there are usually institutional guidelines available to be consulted.
+The UU data steward is available to assist with the ENM templates and other steps.
+
+### Data checklist
+
+Type of data generated:
+•	☐ Experimental, Tabular Data – xls, csv
+e.g. Lab data (raw & processed)  	Data storage:
+☐ data into enanomapper (ENM) template 
+»	☐ store templates together with original data in YODA
+
+•	☐ Experimental, Non-Tabular Data 
+e.g. Output of imaging techniques, PCR	☐ store all formats in YODA 
+
+•	☐ Non-Experimental Data
+e.g. Documentation, SOPs, literature reviews, modelling output	☐ store all formats in YODA
+
+ 
+Openness
+•	☐ Open access 
+•	☐ Restricted access – metadata is open
+
+Required documents (in case of restricted access)
+☐ protocol available for arranging data access
+»	☐ e.g. contact person appointed, data-sharing agreements in place – usually institutional guidelines to be consulted
+
+Timeline
+•	☐ Already published data >> at latest within 2 months (01-04-2025)
+•	☐ Upcoming papers >> maximally 2 months after the publication
+•	☐ MOMENTUM 1 data >> at latest 1st July 2025
+•	☐ MOMENTUM 2 data >> at latest 1st July 2026
+
+
+
 ### YODA
 
-**YODA** is used as a secure data solution, where data generators can upload the filled templates. 
+**YODA** is used in two ways within MOMENTUM. First, as a forum for file exchange to get suitable data into ENM (as direct upload is not supported). This means that ENM templates (filled by data generators) are uploaded here. Furthermore, Yoda is the chosen repository for long-term archiving and publishing as it is especially suitable for large files and managed by UU, who coordinates MOMENTUM. 
 
 ::: {.callout-tip icon="false" appearence="simple"}
 More information and a detailed ‘manual’ about YODA can be found on their [website](https://www.uu.nl/en/research/yoda/guide-to-yoda).
@@ -13,7 +76,7 @@ More information and a detailed ‘manual’ about YODA can be found on their [w
 
 ::: {.callout-tip icon="false" appearence="simple" collapse="true"}
 ## Good to know
-It is also possible to publish data straight from YODA.
+Apart from storage, data can also be published straight from YODA.
 :::
 
 Data generators receive an email to register, after which they can access the dedicated [website](https://dgk.yoda.uu.nl/) for data upload.
@@ -27,10 +90,9 @@ Only MOMENTUM data generators, the responsible person from eNanomapper and data 
 #### Explanation of folder stucture
 
 -   The **enm_filesharing** is a dump folder that provides a collection place for Excel-based MOMENTUM data that will subsequently be transferred into the online database of eNanomapper. It has sub-folders corresponding to separate experiments. Templates should be uploaded into the fitting folder. If there is no fitting folder, one can simply create one (using lowercase letters and hyphens, if needed).
--   Furthermore, the provision of descriptive metadata in Excel format about other types of data (e.g. microscopy, DNA sequencing etc.) is required. The metadata should contain a link to where these other data types are stored/will be made available (e.g. in YODA or another well-established repository). 
--   Data in other formats that is described by a template can be directly placed in this filesharing folder, according to experiment type, to make referencing easier. However, the data owner can choose to make these other files available in another repository as long as clear referencing in templates to linked files is achieved. 
--   The **for_publication** folder is intended for the minimum 'data packages'. Organising MOMENTUM data properly is part of good data management and therefore a key step. Where to store and publish these 'data bundles' however is up to the data owner - having the possibility to choose another standard, widely-accepted repository gives more freedom. 
--   This folder is rather empty still. Data generators are free to create sub-folders for their *intended publications* to keep data packages there.
+-   All other data formats that are not suitable to be put into eNanomapper (e.g. microscopy, DNA sequencing etc.) are stored in YODA. is required. 
+-   The **for_publication** folder is intended for the minimum 'data packages'. Organising MOMENTUM data properly is part of good data management and therefore a key step.
+-   This folder is rather empty still. Data generators are free to create sub-folders for their *intended publications* to keep data packages there. 
 
 ![](/images/dataflow_website_v5.png "General flow of MOMENTUM data")
 
@@ -45,10 +107,10 @@ Only MOMENTUM data generators, the responsible person from eNanomapper and data 
 #### How to use eNanomapper for Momemtum data
 
 -   Navigate to the [**template wizard**](https://enanomapper.adma.ai/projects/momentum/datatemplates/) of MOMENTUM.
--   Find template corresponding to experiment and adjust variables in the wizard. After downloading, fill in Excel sheet. In case the layout does not fit the experimental output (/you wish to adjust template layout to fit your data), please create a template in the [**template designer**](https://enanomapper.adma.ai/templates) instead. Same applies to the metadata templates. Templates obtained from the wizard and changed after download are not suitable for the data transfer into eNanomapper.
+-   Find template corresponding to experiment and adjust variables in the wizard. After downloading, fill in Excel sheet. In case the layout does not fit the experimental output (/you wish to adjust template layout to fit your data), please create a template in the [**template designer**](https://enanomapper.adma.ai/templates) instead. Templates obtained from the wizard and changed after download are not suitable for the data transfer into eNanomapper.
 -   After downloading and filling in suitable templates according to your respective research, upload Excel files to the corresponding sub-folders (name as the template/experiment name). Naming convention is described under the [**corresponding tab**](/naming.qmd).
--   If there is no sub-folder for a given template/experiment yet, please create it under the temp_filesharing folder.
--   There are no sub-folders in the publication folder yet so create one for your paper if you decide to place data packages in YODA. There is an extra folder for data that will not be part of your publication. Please follow the same naming convention for traceability.
+-   If there is no sub-folder for a given template/experiment yet, please create it under the enm_filesharing folder.
+-   There are no sub-folders in the publication folder yet so create one for your paper. Data that is not going to be published can also be placed in YODA. Please follow the same naming convention for traceability.
 
 
 ::: {.callout-important icon="false" appearence="simple"}
