@@ -15,10 +15,10 @@ Filled in ENM templates can be uploaded to YODA whenever they are ready, waiting
 Unpublished data should also be uploaded to YODA whenever it is ready. This data does not have to be in ENM templates. 
 
 ### Timeline
-If data of the MOMENTUM projects is published in a paper, the underlying data should be uploaded in YODA in ENM templates and original formats wherever it is possible and otherwise in other formats preferably before but **maximally 2 months** after the publication. 
-For papers that are **already published** we ask the authors to upload the data in ENM templates and original formats wherever it is possible and otherwise in other formats before **01-04-2025**. 
-For data generated in MOMENTUM1.0 (or in MOMENTUM2.0) and **not used in publications**, we ask all data generators to upload this to YODA before **01-07-2025**. 
-All data generated in **MOMENTUM2.0** should be made available before **01-07-2026**. 
+- If data of the MOMENTUM projects is published in a paper, the underlying data should be uploaded in YODA in ENM templates and original formats wherever it is possible and otherwise in other formats preferably before but **maximally 2 months** after the publication. 
+- For papers that are **already published** we ask the authors to upload the data in ENM templates and original formats wherever it is possible and otherwise in other formats before **01-04-2025**. 
+- For data generated in MOMENTUM1.0 (or in MOMENTUM2.0) and **not used in publications**, we ask all data generators to upload this to YODA before **01-07-2025**. 
+- All data generated in **MOMENTUM2.0** should be made available before **01-07-2026**. 
 If you foresee issues with this timeline, contact the MOMENTUM coordinator. 
 
 ~~*Accessing YODA and ENM is possible after these deadlines up to at least 5 years*~~. 
@@ -36,7 +36,7 @@ If restricted access is chosen under specific licenses when publishing, only met
 The two **"streams"** of MOMENTUM data (ENM and YODA) can be linked on the [website](https://momentummicroplastics.nl/) of MOMENTUM or the [community](https://zenodo.org/communities/momentum/records?q=&l=list&p=1&s=10&sort=newest) on ZENODO.
 
 ### Openness
-As long as openness is legally and ethically permissible, MOMENTUM data should be made ==open access== after an embargo period (in this case, after publications). However, ==restricted access== may be chosen by the data owners (researchers), i.e. deciding on giving access to owned data on a case-by-case basis. In such cases, an ==access protocol and data-sharing agreements== need to be prepared to ensure that access to the data can be provided in a timely manner. These documents should be arranged and managed by the data owner.
+As long as openness is legally and ethically permissible, MOMENTUM data should be made *open access* after an embargo period (in this case, after publications). However, *restricted access* may be chosen by the data owners (researchers), i.e. deciding on giving access to owned data on a case-by-case basis. In such cases, an *access protocol and data-sharing agreements* need to be prepared to ensure that access to the data can be provided in a timely manner. These documents should be arranged and managed by the data owner.
 
 ### Route
 Data generators will get access to YODA to place their data there. Following the checklist below, they have an overview of their own data needs and inform the data steward of MOMENTUM about the details. 

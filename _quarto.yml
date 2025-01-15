@@ -20,6 +20,10 @@ website:
     search: true
   page-navigation: true
   back-to-top-navigation: true
+  announcement: 
+    type: info
+    content: "The step-by-step guide and designer tabs are under construction" 
+    position: below-navbar
 
 format:
   html:
