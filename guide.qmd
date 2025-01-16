@@ -36,7 +36,7 @@ If restricted access is chosen under specific licenses when publishing, only met
 The two **"streams"** of MOMENTUM data (ENM and YODA) can be linked on the [website](https://momentummicroplastics.nl/) of MOMENTUM or the MOMENTUM [community](https://zenodo.org/communities/momentum/records?q=&l=list&p=1&s=10&sort=newest) on ZENODO.
 
 ### Openness
-As long as openness is legally and ethically permissible, MOMENTUM data should be made *open access* after an embargo period (in this case, after publications). However, *restricted access* may be chosen by the data owners (researchers), i.e. deciding on giving access to owned data on a case-by-case basis. In such cases, an *access protocol and data-sharing agreements* need to be prepared to ensure that access to the data can be provided in a timely manner. These documents should be arranged and managed by the data owner.
+As long as openness is legally and ethically permissible, MOMENTUM data should be made **open access** after an embargo period (in this case, after publications). However, **restricted access** may be chosen by the data owners (researchers), i.e. deciding on giving access to owned data on a case-by-case basis. In such cases, an **access protocol and data-sharing agreements** need to be prepared to ensure that access to the data can be provided in a timely manner. These documents should be arranged and managed by the data owner.
 
 ### Route
 Data generators will get access to YODA to place their data there. Following the checklist below, they have an overview of their own data needs and they then inform the data steward of MOMENTUM about the details. 
