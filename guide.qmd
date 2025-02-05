@@ -18,7 +18,7 @@ Apart from storage, data can also be published straight from YODA.
 
 Data generators receive an email to register, after which they can access the dedicated [website](https://dgk.yoda.uu.nl/) for data upload.
 
-The main folder is called **"research-enanomapper"** with an **"enm_filesharing"** and an optional **"for_publication"** folder within. There is also a README.txt file giving extra information on file naming. This information is also available under the [**naming convention**](/naming.qmd) tab.
+The main folder is called **"research-enanomapper"** with an **"enm_filesharing"** and a **"for_publication"** folder within. There is also a README.txt file giving extra information on file naming. This information is also available under the [**naming convention**](/naming.qmd) tab.
 
 ::: {.callout-note icon="false" appearence="simple" collapse="true"}
 Only MOMENTUM data generators, the responsible person from eNanomapper and data managers have access to this environment.
