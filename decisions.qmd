@@ -1,0 +1,59 @@
+---
+title: "Data decisions"
+lightbox: true
+---
+
+## Goal
+This page outlines the data management choices made within the MOMENTUM 1.0 and MOMENTUM 2.0 projects. Ideally, it also applies to the breakthrough projects. Two main goals are addressed. The first goal is to have an **overall MOMENTUM-NL collection** where all data generated within the projects is stored in a **sustainable and FAIR** way after the projects end, overseen by the MOMENTUM-NL office (UU) and with all partners having access to all data generated within the project. The second goal is to have **all the relevant data** from MOMENTUM on the different particles **in the eNanomapper (ENM) database**, so this data can be reused by researchers and serve as input for risk assessments now and in the future. 
+
+## Agreements and details
+
+### 1. MOMENTUM-NL data collection
+All the data that is collected in the MOMENTUM projects should be stored at one location and remains available to the consortium after the project ends. For this, YODA has been selected as the data repository in MOMENTUM. **Storing all MOMENTUM data centrally on YODA is compulsory** for partners in the MOMENTUM projects. 
+For this, **all data underlying publications** must be uploaded in YODA. Additionally, as much as possible, unpublished data both from MOMENTUM 1.0 and MOMENTUM 2.0 should be uploaded to YODA whenever ready, or within 1 year after the end of the MOMENTUM 2.0 project (01-07-2026). 
+
+### 2. eNanomapper (ENM)
+To get experimental data into ENM, please use the appropriate ENM template and upload these templates to YODA. Predefined templates are available in the Wizard and the Designer can be used to create custom-made templates to fit individual data needs. Experimental data in ENM templates uploaded to YODA will be regularly parsed into the ENM database. ENM provides an added layer of FAIRness and enables combining research output from different experiments.
+
+### 3. Uploading and version control
+The data should be organized into data packages containing tabular (experimental data in ENM Excel templates or own template) and non-tabular data (images, PCR, literature review and modelling outputs, SOPs etc.) with proper documentation. All data can be uploaded whenever they are ready, waiting until the publication is online is not necessary.
+Make sure to **upload the latest version of data to YODA**. When local changes are made to the data (e.g. on researcher’s own institutional drive), the version on YODA always needs to be updated.
+
+### 4. Accessibility 
+The data in YODA can be published with open or restricted access. The data owner determines the level of access. In both cases the data gets an identifier (DOI) assigned, which can be referenced in the published paper.
+Accessibility can also be set in ENM, however only on the database level. This setting will be determined by the Partner Assembly at the end of the project. 
+In general, as long as openness is legally and ethically permissible, MOMENTUM data should be made open access. However, in case of restricted access, an access protocol and data-sharing agreements need to be prepared to ensure that access to the data can be provided in a timely manner. These documents should be arranged and managed by the data owner.
+
+### 5. Timeline 
+If data of the MOMENTUM projects is published in a paper, this data should be uploaded in YODA in data packages, including filled ENM templates, own Excel files and non-tabular data preferably before but **maximally 2 months after the publication**. For papers that are already published we ask the authors to upload the data **before 01-04-2025**. 
+For data generated in MOMENTUM 1.0 and not used in publications, we ask all data generators to upload this to YODA **before 01-07-2025**. All data generated in MOMENTUM 2.0 should be uploaded before **01-07-2026**. 
+If you foresee issues with this timeline, contact the MOMENTUM-NL office. 
+
+ZonMw requires the MOMENTUM partners to inform ZonMw on publications from the MOMENTUM data up until 5 years after the end of the project. There is budget available through the MOMENTUM-NL office to upload data after the project has finished but this is limited and expires after 31-10-2025. Please note that you will need to pay the costs for uploading ENM templates after this date. Accessing YODA and ENM is also possible up to at least 5 years after the end of the project. 
+
+### 6. Minimal requirements 
+The minimum data to be reported are **all data underlying publications**. Preferably both raw and processed data should be uploaded to YODA and as much as possible made available also in ENM. The level of "rawness" is determined by the data owner, based on their expertise and understanding of the data. If providing raw data in ENM compatible format requires substantial effort and is deemed unfeasible within the given project timeline the data owner should contact the MOMENTUM coordinator. When no actual data can be made public either on YODA and/or ENM, at least basic metadata describing the research methodology should be provided.
+Folder structure in YODA should be simple and generics. Folders will be structured per work package, with separate folders per publication, containing folders of ENM templates and all other formats (see image 1. below for inspiration). Please reach out if you need advice on how to organise data.
+
+![](/images/simple_datapack.png "1. Simple folder structure for publications within work packages")
+
+If restricted access is chosen under specific licenses when publishing, only metadata will be accessible.
+
+The two **streams** of MOMENTUM data (ENM and YODA) can be linked on the [website of MOMENTUM](https://momentummicroplastics.nl/) or the MOMENTUM [community](https://zenodo.org/communities/momentum/records?q=&l=list&p=1&s=10&sort=newest) on ZENODO.
+
+### 7. Other repositories
+Every partner in MOMENTUM is free to use additional repositories to publish the data that is also uploaded in YODA, for example via a journal or in (the MOMENTUM community on) Zenodo. Make sure to have a good registration of version control in case different copies of the data is published. 
+
+### 8. Route
+Data generators will get access to YODA to place their data in YODA. An overview of  data requirements is provided in the checklist below. The data is placed in ENM templates for export to ENM. The ENM templates and other templates/formats will be stored in the YODA vault. Data gets a DOI and, if applicable, data will be made available via open access. In case of restricted access, a data sharing protocol needs to be arranged by the data owner - there are usually institutional guidelines available to be consulted.
+The UU data steward is available to assist with the ENM templates and other steps.
+
+### 9. Data checklist
+
+| Type of data generated | Data storage |
+| :---------- | :----------- |
+| • Experimental, Tabular Data - xls, csv <br><br> e.g. Lab data (raw & processed)  | data into enanomapper (ENM) template <br><br> » store templates together with original data in YODA |
+| • Experimental, Non-Tabular Data <br><br> e.g. Output of imaging techniques, PCR | store all formats in YODA |
+| • Non-Experimental Data <br><br> e.g. Documentation, SOPs, literature reviews, modelling output	| store all formats in YODA|
+|<strong>Openness</strong> <br><br> • Open <br><br> • Restricted - metadata is open |<strong>Required documents</strong> (in case of restricted access) <br><br> • protocol available for arranging data access <br><br> » e.g. contact person appointed, data-sharing agreements in place – usually institutional guidelines to be consulted|
+|<strong>Timeline</strong> <br><br> • Already published data » at latest within 2 months (01-04-2025)<br><br> • Upcoming papers » maximally 2 months after the publication <br><br> • MOMENTUM 1 data » at latest 1st July 2025 <br><br> • MOMENTUM 2 data » at latest 1st July 2026|

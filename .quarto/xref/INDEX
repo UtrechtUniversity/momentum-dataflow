@@ -16,5 +16,8 @@
   },
   "glossary.qmd": {
     "glossary.html": "094be36d"
+  },
+  "decisions.qmd": {
+    "decisions.html": "c8002d6a"
   }
 }

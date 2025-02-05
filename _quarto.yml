@@ -13,6 +13,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - decisions.qmd
       - guide.qmd
       - designer.qmd
       - naming.qmd
